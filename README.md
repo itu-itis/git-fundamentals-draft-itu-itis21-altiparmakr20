@@ -1,4 +1,4 @@
-# :wave: MODIFIED BY REMZİ ALTIPARMAK, 150200072
+# :wave: The Basics of GitHub (MODIFIED BY REMZİ ALTIPARMAK at 10:54, 25.10.2021)
 
 ## 🤓 Course overview and learning outcomes 
 
